@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">人脸签到系统</string>
+
+    <string name="splash_text">Face Recognition</string>
+    <string name="main_item_face_register">人脸注册</string>
+    <string name="main_item_face_recognition">人脸识别 1v1</string>
+    <string name="main_item_face_recognition_n">人脸识别 1vN</string>
+    <string name="main_item_face_recognition_id">人脸识别 公安验证</string>
+    <string name="main_item_face_live">活体检测</string>
+    <string name="main_item_face_detect">人脸图像采集</string>
+    <string name="main_item_face_lite">人脸图像验证</string>
+    <string name="main_item_face_bank_cards">银行卡</string>
+    <string name="main_item_face_id_cards">身份证</string>
+    <string name="main_item_face_delete">删除功能</string>
+    <string name="play">play</string>
+    <string name="stop_playback">stop playback</string>
+    <string name="stop">stop</string>
+    <string name="record">record</string>
+    <string name="stop_recording">stop recording</string>
+    <string name="zero">0</string>
+
+    <string name="detect_no_face">未检测到人脸</string>
+    <string name="detect_face_in">把脸移入框内</string>
+    <string name="detect_zoom_in">手机拿近一点</string>
+    <string name="detect_zoom_out">手机拿远一点</string>
+    <string name="detect_head_up">建议略微抬头</string>
+    <string name="detect_head_down">建议略微低头</string>
+    <string name="detect_head_left">建议略微向左转头</string>
+    <string name="detect_head_right">建议略微向右转头</string>
+    <string name="detect_occ_face">脸部有遮挡</string>
+    <string name="detect_low_light">光线再亮些</string>
+    <string name="detect_keep">请保持不动</string>
+    <string name="detect_standard">请正对手机</string>
+    <string name="detect_timeout">检测超时</string>
+    <string name="liveness_eye">眨眨眼</string>
+    <string name="liveness_eye_left">请眨眨左边眼睛</string>
+    <string name="liveness_eye_right">请眨眨右边眼睛</string>
+    <string name="liveness_mouth">张张嘴</string>
+    <string name="liveness_head_left">向左缓慢转头</string>
+    <string name="liveness_head_right">向右缓慢转头</string>
+    <string name="liveness_head_left_right">摇摇头</string>
+    <string name="liveness_head_up">缓慢抬头</string>
+    <string name="liveness_head_down">缓慢低头</string>
+    <string name="liveness_good">非常好</string>
+    <string name="detect_occ_left_eye">左眼有遮挡</string>
+    <string name="detect_occ_right_eye">右眼有遮挡</string>
+    <string name="detect_occ_nose">鼻子有遮挡</string>
+    <string name="detect_occ_mouth">嘴部有遮挡</string>
+    <string name="detect_left_contour">左脸颊有遮挡</string>
+    <string name="detect_right_contour">右脸颊有遮挡</string>
+    <string name="detect_chin_contour">下巴有遮挡</string>
+
+</resources>
